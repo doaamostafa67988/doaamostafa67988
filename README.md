@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @doaamostafa.
-- 👀 I’m interested in Ai feild.
+- 👀 I’m interested in AI feild.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on advanced projects. 
 
