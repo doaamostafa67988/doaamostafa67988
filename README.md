@@ -13,11 +13,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doaamostafa67988&show_icons=true&locale=en&layout=compact" alt="doaamostafa67988" /></p>
 
 
-----
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doaamostafa67988&show_icons=true&locale=en" alt="doaamostafa67988" /></p>
-<br>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+
+## :⚡ Recent GitHub Activity
+ 
   <br/>
    <a href="https://github.com/doaamostafa67988"><img alt="Doaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=doaamostafa67988&custom_title=Doaa's%20Contribution%20Graph&theme=react-white" /></a>
   <br/>
