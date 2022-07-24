@@ -4,7 +4,7 @@
 </p>
 <br>
 
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 - 👋 Hi, I’m a `Senior` at Faculty of Engineering at Alazhar University.
 - 👀 I’m interested in AI feild(Machine Learning - Computer vision -NLP- Time Series) .
