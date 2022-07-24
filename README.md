@@ -4,12 +4,7 @@
 </p>
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=doaamostafa67988=Profile%20views&color=0e75b6&style=plastic" alt="Doaa" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Doaa" target="_blank"/> 
-	</a>
-</p>
+
 
 - 👋 Hi, I’m a `Senior` at Faculty of Engineering at Alazhar University.
 - 👀 I’m interested in AI feild(Machine Learning - Computer vision -NLP- Time Series) .
