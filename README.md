@@ -14,10 +14,12 @@
 
 
 ----
-
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doaamostafa67988&show_icons=true&locale=en" alt="doaamostafa67988" /></p>
+<br>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/doaamostafa67988"><img alt="Doaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=doaamostafa67988&custom_title=Doaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/doaamostafa67988"><img alt="Doaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=doaamostafa67988&custom_title=Doaa's%20Contribution%20Graph&theme=react-white" /></a>
   <br/>
 
 
@@ -28,7 +30,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doaamostafa67988&layout=compact&theme=algolia" alt="Doaa" /></a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doaamostafa67988&show_icons=true&locale=en" alt="doaamostafa67988" /></p>
+
 
 
 <!---
