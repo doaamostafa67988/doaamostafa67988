@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-- 👋 Hi, I’m a `Senior` at Faculty of Engineering at Alazhar University.
+- 👋 Hi, I’m a `AI Engineer`.
 - 👀 I’m interested in AI feild(Machine Learning - Computer vision -NLP- Time Series) .
 - 🌱 I’m currently learning Data Science.
 - :thinking:I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/u/0/folders/1sRejpusXyK8uWNRwLXqthaKV5nGpV37m).
