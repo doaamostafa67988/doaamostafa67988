@@ -8,17 +8,17 @@
 
  👋 Hi, I’m a `AI Engineer` | `Ex Google DSC Leader` | `AI Instructor` . <br>
  📄 Know about my experiences, this is my [Portolio Website]() and [Resume](https://drive.google.com/drive/u/0/folders/1sRejpusXyK8uWNRwLXqthaKV5nGpV37m). <br>
- 👨‍💻 All of my **10+ end-to-end projects** in AI including:
-   - [Web Scrapping]()
+ 👨‍💻 All of my **10+ end-to-end AI projects**, including:
+   - [Web Scraping]()
    - [Data Analysis]()
    - [A/B Testing]()
    - [Machine Learning]()
    - [Deep Learning]()
-   - [Recommendation System AWS]()
-   - [Fine Tuning LLM]()
+   - [Recommendation System with Docker & AWS]()
+   - [Fine Tuning LLM with LoRA]()
    - [Hybrid RAG Chatbot]()
-   - [Agintic AI Chatbot]()
-   - [Automation using N8N]().
+   - [Agentic AI Chatbot]()
+   - [Automation using n8n]()
 
  📝 I regularly write articles and notebooks on [Kaggle](https://www.kaggle.com/doaamostafa67988).  
 
