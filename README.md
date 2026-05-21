@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
  👋 Hi, I’m an `AI Engineer` | `Ex Google DSC Leader` | `AI Instructor` . <br>
- 📄 Know about my experiences, this is my [Portolio Website]() and [Resume](https://drive.google.com/drive/folders/1qypKu_Prr6K8zcSEBfXKfUnAAh-yTHWp?usp=sharing). <br>
+ 📄 Know about my experiences, this is my [Portolio Website](https://doaa-ai-sparkle.lovable.app/) and [Resume](https://drive.google.com/drive/folders/1qypKu_Prr6K8zcSEBfXKfUnAAh-yTHWp?usp=sharing). <br>
  
  👨‍💻 All of my **10+ end-to-end AI & Full-Stack projects**, including:
    - [Data Analysis](https://github.com/doaamostafa67988/churn-analysis)
