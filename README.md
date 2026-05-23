@@ -18,6 +18,8 @@
    - [Fine Tuning LLM with LoRA](https://github.com/doaamostafa67988/english-to-egyptian-telegram-bot)
    - [Hybrid RAG Chatbot](https://github.com/doaamostafa67988/Chat_with_pdf)
    - [Agentic AI Chatbot](https://github.com/doaamostafa67988/Autonomous-AI-Research-Assistant-Team)
+   - [Social-Media-Content-Creator-AI](https://github.com/doaamostafa67988/Social-Media-Content-Creator-AI)
+   - [Support-AI-Multi-Agent-System](https://github.com/doaamostafa67988/Support-AI-Multi-Agent-System)
    - [Automation using n8n](https://github.com/doaamostafa67988/multi-agent-whatsapp)
    - [Full-Stack React Web App](https://github.com/doaamostafa67988/Cooks-Delight-Cooking-and-Recipes-Blog) 
  📝 I regularly write articles and notebooks on [Kaggle](https://www.kaggle.com/doaamostafa67988).  
