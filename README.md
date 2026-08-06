@@ -17,10 +17,12 @@
    - [Recommendation System with Docker & AWS](https://github.com/doaamostafa67988/Recommendation-System)
    - [Fine Tuning LLM with LoRA](https://github.com/doaamostafa67988/english-to-egyptian-telegram-bot)
    - [Hybrid RAG Chatbot](https://github.com/doaamostafa67988/Chat_with_pdf)
-   - [Agentic AI Chatbot](https://github.com/doaamostafa67988/Autonomous-AI-Research-Assistant-Team)
+   - [Legal chatbot using Graph Rag](https://github.com/doaamostafa67988/Legal_chatbot)
+   - [Agentic AI Researcher Chatbot](https://github.com/doaamostafa67988/Autonomous-AI-Research-Assistant-Team)
    - [Social-Media-Content-Creator-AI](https://github.com/doaamostafa67988/Social-Media-Content-Creator-AI)
    - [Support-AI-Multi-Agent-System](https://github.com/doaamostafa67988/Support-AI-Multi-Agent-System)
-   - [Automation using n8n](https://github.com/doaamostafa67988/multi-agent-whatsapp)
+   - [AI Shopping Assistant using CrewAI](https://github.com/doaamostafa67988/AI-Shopping-Assistant)
+   - [AI-Job-Hunting-Assistant using n8n](https://github.com/doaamostafa67988/AI-Job-Hunting-Assistant)
    - [Full-Stack React Web App](https://github.com/doaamostafa67988/Cooks-Delight-Cooking-and-Recipes-Blog) 
  📝 I regularly write articles and notebooks on [Kaggle](https://www.kaggle.com/doaamostafa67988).  
 
